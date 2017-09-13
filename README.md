@@ -1,2 +1,2 @@
-# gotrueskill
+# trueskillgo
 Golang Trueskill Implementation
