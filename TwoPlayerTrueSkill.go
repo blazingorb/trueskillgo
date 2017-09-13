@@ -1,5 +1,5 @@
 // TwoPlayerTrueSkill
-package gotrueskill
+package trueskillgo
 
 import (
 	"math"

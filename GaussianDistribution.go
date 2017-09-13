@@ -1,5 +1,5 @@
 // GaussianDistribution
-package gotrueskill
+package trueskillgo
 
 import (
 	"math"

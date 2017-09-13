@@ -1,5 +1,5 @@
 // TruncatedGaussianCorrectionFunctions
-package gotrueskill
+package trueskillgo
 
 import (
 	"math"

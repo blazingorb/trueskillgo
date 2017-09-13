@@ -1,5 +1,5 @@
 // Rating
-package gotrueskill
+package trueskillgo
 
 import (
 	"fmt"
